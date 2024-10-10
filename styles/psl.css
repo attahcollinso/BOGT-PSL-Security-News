@@ -446,3 +446,7 @@ ol.myUL {
   display: inline-block;
   text-align: left;
 }
+
+.pad {
+  padding-left: 20px;
+}
